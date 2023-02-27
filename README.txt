@@ -18,7 +18,7 @@ Output Format
 Print the sum of the array's elements as a single integer.
 
 
-Bài 2: 
+Bài 3: 
 Alice và Bob mỗi người tạo ra một vấn đề cho HackerRank. Một người đánh giá đánh giá hai thử thách, cho điểm trên thang điểm từ 1 đến 100 cho ba loại: sự rõ ràng của vấn đề , tính độc đáo và độ khó .
 
 Xếp hạng cho thử thách của Alice là bộ ba a = (a[0], a[1], a[2]) và xếp hạng cho thử thách của Bob là bộ ba b = (b[0], b[1], b [2]) .
